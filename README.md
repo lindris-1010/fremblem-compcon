@@ -26,3 +26,9 @@ Here's some of the key take aways I got from this project:
 - Less isn't always best.
 	- When designing equipment, one iteration of those tables had put all the shared attributes between Armor, Weapons, etc. in a parent table that these different equipment types would point to. For example, instead of having a "name" column on each table, there was just one on the parent table that they shared. While this helped keep the specific tables smaller, it was a pain to manually write the JSON files that populated these tables initially. This would be fine for my smaller test set of data, but isn't sustainable in the long run, especially if I want people to be able to write their own JSON files that can be read to add custom equipment.
 - If you enjoy the project you're working on, it's a whole lot easier to dump time and effort into.
+
+Entity Relationship Diagram:
+![ERD](./assets/ERD_fremblem.png)
+
+Rough System Design:
+![Rough System Design](./assets/RoughSysDesign.png)
