@@ -1,0 +1,20 @@
+[
+  {
+    "feat_id": 1,
+    "name": "Debug Sword Feat",
+    "description": "Gain +1 to attack rolls with swords.",
+    "feat_logic": { "type": "attack_bonus", "weapon": "sword", "bonus": 1 }
+  },
+  {
+    "feat_id": 2,
+    "name": "Debug Axe Feat",
+    "description": "Gain +1 to attack rolls with axes.",
+    "feat_logic": { "type": "attack_bonus", "weapon": "axe", "bonus": 1 }
+  },
+  {
+    "feat_id": 3,
+    "name": "Debug Bow Feat",
+    "description": "Gain +1 to attack rolls with bows.",
+    "feat_logic": { "type": "attack_bonus", "weapon": "bow", "bonus": 1 }
+  }
+]

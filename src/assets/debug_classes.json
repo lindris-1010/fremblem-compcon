@@ -1,0 +1,54 @@
+[
+  {
+    "class_id": 1,
+    "name": "Cleric",
+    "starting_hp": 12,
+    "hp_per_level": 5,
+    "healing_surges": 7,
+    "weapon_prof": "simple",
+    "armor_prof": "cloth, leather, hide, chainmail",
+    "def_boosts": [0, 0, 2],
+    "starting_skill_ids": [14],
+    "trained_skill_ids": [2, 5, 8, 9, 10],
+    "description": " Clerics are battle leaders who are invested with divine power. They blast foes with magical prayers, bolster and heal companions, and lead the way to victory with a mace in one hand and a holy symbol in the other."
+  },
+  {
+    "class_id": 2,
+    "name": "Fighter",
+    "starting_hp": 15,
+    "hp_per_level": 6,
+    "healing_surges": 9,
+    "weapon_prof": "simple, military",
+    "armor_prof": "cloth, leather, hide, chainmail, scale",
+    "def_boosts": [2, 0, 0],
+    "starting_skill_ids": [],
+    "trained_skill_ids": [3, 7, 8, 11, 16],
+    "description": "Fighters are determined combat adepts trained to protect the other members of their adventuring groups. Fighters draw weapons for gold, for glory, for duty, and for the mere joy of unrestrained martial exercise."
+  },
+  {
+    "class_id": 3,
+    "name": "Warlord",
+    "starting_hp": 12,
+    "hp_per_level": 5,
+    "healing_surges": 7,
+    "weapon_prof": "simple, military",
+    "armor_prof": "cloth, leather, hide, chainmail",
+    "def_boosts": [1, 0, 1],
+    "starting_skill_ids": [],
+    "trained_skill_ids": [3, 5, 7, 8, 9, 11],
+    "description": "Warlords are accomplished and competent battle leaders. Warlords stand on the front line issuing commands and bolstering their allies while leading the battle with weapon in hand. Warlords know how to rally a team to win a fight."
+  },
+  {
+    "class_id": 200,
+    "name": "Debug",
+    "starting_hp": 12,
+    "hp_per_level": 5,
+    "healing_surges": 7,
+    "weapon_prof": "simple",
+    "armor_prof": "cloth",
+    "def_boosts": [3, 4, 5],
+    "starting_skill_ids": [9],
+    "trained_skill_ids": [1, 2, 3, 4, 5, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17],
+    "description": "This is for testing purposes; If you need to mess with a class, use this one!"
+  }
+]

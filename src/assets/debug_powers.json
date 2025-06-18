@@ -1,0 +1,50 @@
+[
+  {
+    "power_id": 2001,
+    "class_id": 200,
+    "name": "Magic Missile",
+    "level": 1,
+    "use_type": "at_will",
+    "action_type": "standard",
+    "keywords": "[Arcane, Implement]",
+    "weapon": "",
+    "target": "One creature",
+    "attack": "",
+    "range": "20",
+    "effect": "Deals force damage",
+    "description": "An unerring dart of magical force strikes the target.",
+    "power_logic": { "type": "damage", "amount": "2d4+INT" }
+  },
+  {
+    "power_id": 2002,
+    "class_id": 200,
+    "name": "Flaming Sphere",
+    "level": 3,
+    "use_type": "encounter",
+    "action_type": "standard",
+    "keywords": "[Arcane, Implement]",
+    "weapon": "",
+    "target": "Area burst 1",
+    "attack": "",
+    "range": "10",
+    "effect": "Summons a flaming sphere",
+    "description": "Sphere deals damage to enemies that start their turn nearby.",
+    "power_logic": { "type": "area_effect", "duration": 3 }
+  },
+  {
+    "power_id": 2003,
+    "class_id": 200,
+    "name": "Lance of Faith",
+    "level": 1,
+    "use_type": "at_will",
+    "action_type": "standard",
+    "keywords": "[Divine, Implement, Radiant]",
+    "weapon": "",
+    "target": "One Creature",
+    "attack": "Wisdom vs. Reflex",
+    "range": "5",
+    "effect": "1d8 + Wisdom modifier radiant damage, and one ally you can see gains a +2 power bonus to his or her next attack roll against the target.",
+    "description": "A brilliant ray of light sears your foe with golden radiance. Sparkles of light linger around the target, guiding your ally’s attack.",
+    "power_logic": {}
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "char_id": 1,
+    "profile_id": 1,
+    "profile_type": "weapon",
+    "enchant_id": 0,
+    "quantity": 1,
+    "is_equipped": 0
+  },
+  {
+    "char_id": 1,
+    "profile_id": 5,
+    "profile_type": "armor",
+    "enchant_id": 0,
+    "quantity": 1,
+    "is_equipped": 1
+  },
+  {
+    "char_id": 1,
+    "profile_id": 3,
+    "profile_type": "weapon",
+    "enchant_id": 0,
+    "quantity": 1,
+    "is_equipped": 1
+  },
+  {
+    "char_id": 1,
+    "profile_id": 7,
+    "profile_type": "weapon",
+    "enchant_id": 0,
+    "quantity": 1,
+    "is_equipped": 1
+  },
+  {
+    "char_id": 3,
+    "profile_id": 3,
+    "profile_type": "armor",
+    "enchant_id": 0,
+    "quantity": 1,
+    "is_equipped": 1
+  },
+  {
+    "char_id": 3,
+    "profile_id": 5,
+    "profile_type": "weapon",
+    "enchant_id": 0,
+    "quantity": 1,
+    "is_equipped": 1
+  }
+]

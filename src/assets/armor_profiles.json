@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Cloth Armor",
+    "cost": 1,
+    "description": "",
+    "type": ["cloth", "light_armor"],
+    "ac_bonus": 0,
+    "min_enhance_bonus": 0
+  },
+  {
+    "name": "Leather Armor",
+    "cost": 25,
+    "description": "",
+    "type": ["leather", "light_armor"],
+    "ac_bonus": 2,
+    "min_enhance_bonus": 0
+  },
+  {
+    "name": "Hide Armor",
+    "cost": 30,
+    "description": "",
+    "type": ["hide", "light_armor"],
+    "ac_bonus": 3,
+    "min_enhance_bonus": 0
+  },
+  {
+    "name": "Chainmail Armor",
+    "cost": 40,
+    "description": "",
+    "type": ["chainmail", "heavy_armor"],
+    "ac_bonus": 6,
+    "min_enhance_bonus": 0
+  },
+  {
+    "name": "Scale Armor",
+    "cost": 45,
+    "description": "",
+    "type": ["scale", "heavy_armor"],
+    "ac_bonus": 7,
+    "min_enhance_bonus": 0
+  },
+  {
+    "name": "Plate Armor",
+    "cost": 50,
+    "description": "",
+    "type": ["plate", "heavy_armor"],
+    "ac_bonus": 8,
+    "min_enhance_bonus": 0
+  },
+  {
+    "name": "Feyleather Armor",
+    "cost": 0,
+    "description": "",
+    "type": ["leather", "light_armor"],
+    "ac_bonus": 3,
+    "min_enhance_bonus": 4
+  },
+  {
+    "name": "Wyrmscale Armor",
+    "cost": 0,
+    "description": "",
+    "type": ["scale", "heavy_armor"],
+    "ac_bonus": 10,
+    "min_enhance_bonus": 4
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Club",
+    "keywords": ["mace"],
+    "cost": 1,
+    "description": "",
+    "damage": "1d6",
+    "type": ["simple_melee", "one_handed"],
+    "range": 1,
+    "prof_bonus": 2
+  },
+  {
+    "name": "Dagger",
+    "keywords": ["light_blade", "off_hand", "light_thrown"],
+    "cost": 1,
+    "description": "",
+    "damage": "1d4",
+    "type": ["simple_melee", "one_handed"],
+    "range": 5,
+    "prof_bonus": 3
+  },
+  {
+    "name": "Scythe",
+    "keywords": ["heavy_blade"],
+    "cost": 5,
+    "description": "",
+    "damage": "2d4",
+    "type": ["simple_melee", "two_handed"],
+    "range": 1,
+    "prof_bonus": 2
+  },
+  {
+    "name": "Short Sword",
+    "keywords": ["light_blade", "off_hand"],
+    "cost": 1,
+    "description": "",
+    "damage": "1d6",
+    "type": ["military_melee", "one_handed"],
+    "range": 1,
+    "prof_bonus": 3
+  },
+  {
+    "name": "Greatsword",
+    "keywords": ["heavy_blade"],
+    "cost": 30,
+    "description": "",
+    "damage": "1d10",
+    "type": ["military_melee", "two_handed"],
+    "range": 1,
+    "prof_bonus": 3
+  },
+  {
+    "name": "Rapier",
+    "keywords": ["light_blade"],
+    "cost": 25,
+    "description": "",
+    "damage": "1d8",
+    "type": ["superior_melee", "one_handed"],
+    "range": 1,
+    "prof_bonus": 3
+  },
+  {
+    "name": "Hand Crossbow",
+    "keywords": ["crossbow", "load_free"],
+    "cost": 25,
+    "description": "",
+    "damage": "1d6",
+    "type": ["simple_ranged", "one_handed"],
+    "range": 10,
+    "prof_bonus": 2
+  },
+  {
+    "name": "Crossbow",
+    "keywords": ["crossbow", "load_minor"],
+    "cost": 25,
+    "description": "",
+    "damage": "1d8",
+    "type": ["simple_ranged", "two_handed"],
+    "range": 15,
+    "prof_bonus": 2
+  },
+  {
+    "name": "Longbow",
+    "keywords": ["bow", "load_free"],
+    "cost": 30,
+    "description": "",
+    "damage": "1d10",
+    "type": ["military_ranged", "two_handed"],
+    "range": 20,
+    "prof_bonus": 2
+  }
+]

@@ -1,0 +1,19 @@
+[
+  { "skill_id": 1, "name":  "Acrobatics", "ability_used": "dex" },
+  { "skill_id": 2, "name":  "Arcana", "ability_used": "int" },
+  { "skill_id": 3, "name":  "Athletics", "ability_used": "str" },
+  { "skill_id": 4, "name":  "Bluff", "ability_used": "cha" },
+  { "skill_id": 5, "name":  "Diplomacy", "ability_used": "cha" },
+  { "skill_id": 6, "name":  "Dungeoneering", "ability_used": "wis" },
+  { "skill_id": 7, "name":  "Endurance", "ability_used": "con" },
+  { "skill_id": 8, "name":  "Heal", "ability_used": "wis" },
+  { "skill_id": 9, "name":  "History", "ability_used": "int" },
+  { "skill_id": 10, "name":  "Insight", "ability_used": "wis" },
+  { "skill_id": 11, "name":  "Intimidate", "ability_used": "cha" },
+  { "skill_id": 12, "name":  "Nature", "ability_used": "wis" },
+  { "skill_id": 13, "name":  "Perception", "ability_used": "wis" },
+  { "skill_id": 14, "name":  "Religion", "ability_used": "int" },
+  { "skill_id": 15, "name":  "Stealth", "ability_used": "dex" },
+  { "skill_id": 16, "name":  "Streetwise", "ability_used": "cha" },
+  { "skill_id": 17, "name":  "Thievery", "ability_used": "dex" }
+]

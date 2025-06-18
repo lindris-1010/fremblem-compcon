@@ -1,0 +1,16 @@
+[
+  {
+    "equipment_id": 2,
+    "name": "Debug Leather Armor",
+    "description": "Leather Armor Description",
+    "mod": 0,
+    "equipment_logic": { "type": "armor", "ac_bonus": 2 }
+  },
+  {
+    "equipment_id": 3,
+    "name": "Debug Healing Potion",
+    "description": "Healing Potion Description",
+    "mod": 0,
+    "equipment_logic": { "type": "potion", "heals": 10 }
+  }
+]
